@@ -1,0 +1,46 @@
+* {
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+}
+
+h2 {
+    color: #7d97ad
+}
+
+.logo {
+    width: 50px;
+    float: left;
+}
+
+.title {
+    text-align: right;
+}
+
+.name {
+    font-weight: 100;
+    font-size: 4em;
+    margin-bottom: auto;
+}
+
+.role {
+    font-weight: 300;
+    font-size: 1.5em;
+    margin-top: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+.icons {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer {
+    height: 4.5em;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #F8E859;
+}
